@@ -1,0 +1,17 @@
+[
+  {"title": "Clair de Lune", "composer": "Claude Debussy", "genre": "발레", "mood": "서정적", "duration": "5:12"},
+  {"title": "Gymnopédie No.1", "composer": "Erik Satie", "genre": "발레", "mood": "서정적", "duration": "3:08"},
+  {"title": "Swan Lake Op.20", "composer": "Tchaikovsky", "genre": "발레", "mood": "우아한", "duration": "4:30"},
+  {"title": "Sleeping Beauty Waltz", "composer": "Tchaikovsky", "genre": "발레", "mood": "우아한", "duration": "3:45"},
+  {"title": "The Four Seasons - Spring", "composer": "Vivaldi", "genre": "발레", "mood": "경쾌한", "duration": "3:32"},
+  {"title": "아리랑", "composer": "전통민요", "genre": "한국무용", "mood": "서정적", "duration": "3:00"},
+  {"title": "도라지타령", "composer": "전통민요", "genre": "한국무용", "mood": "경쾌한", "duration": "2:50"},
+  {"title": "살풀이", "composer": "전통민요", "genre": "한국무용", "mood": "애절한", "duration": "5:00"},
+  {"title": "진도아리랑", "composer": "전통민요", "genre": "한국무용", "mood": "흥겨운", "duration": "3:20"},
+  {"title": "승무", "composer": "전통민요", "genre": "한국무용", "mood": "우아한", "duration": "4:10"},
+  {"title": "Comptine d'un autre été", "composer": "Yann Tiersen", "genre": "현대무용", "mood": "서정적", "duration": "2:32"},
+  {"title": "Experience", "composer": "Ludovico Einaudi", "genre": "현대무용", "mood": "서정적", "duration": "5:14"},
+  {"title": "Nuvole Bianche", "composer": "Ludovico Einaudi", "genre": "현대무용", "mood": "서정적", "duration": "5:57"},
+  {"title": "Divenire", "composer": "Ludovico Einaudi", "genre": "현대무용", "mood": "역동적", "duration": "6:50"},
+  {"title": "River Flows in You", "composer": "Yiruma", "genre": "현대무용", "mood": "서정적", "duration": "3:50"}
+]
